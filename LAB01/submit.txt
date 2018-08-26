@@ -1,0 +1,10 @@
+C:\Python27\python.exe dirlididi.py submit Q8lIaDijI 4ij3AXE3tkyj HelloDirlididi.java
+C:\Python27\python.exe dirlididi.py submit QCT9g3lJ2 4ij3AXE3tkyj DobroTriplo.java
+C:\Python27\python.exe dirlididi.py submit QN9tFkXbc 4ij3AXE3tkyj MediaPass.java
+C:\Python27\python.exe dirlididi.py submit O74TDGIEa 4ij3AXE3tkyj CresceDecresce.java
+C:\Python27\python.exe dirlididi.py submit R7qL9alKS 4ij3AXE3tkyj Calculadora.java
+C:\Python27\python.exe dirlididi.py submit PoFnkEzvk 4ij3AXE3tkyj AcimaDaMedia.java
+C:\Python27\python.exe dirlididi.py submit SlfR6pBmC 4ij3AXE3tkyj Wally!.java
+C:\Python27\python.exe dirlididi.py submit NIGzVIuci 4ij3AXE3tkyj AlunosEnota.java
+
+set path=C:\Program Files\Java\jdk1.8.0_161\bin
